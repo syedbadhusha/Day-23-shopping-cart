@@ -2,7 +2,7 @@ import Header from "./Header";
 import Nav from "./Nav";
 import Section from "./Section";
 import Footer from "./Footer";
-import "/node_modules/Bootstrap/dist/css/Bootstrap.css";
+import "/node_modules/bootstrap/dist/css/bootstrap.css";
 import '/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
 import { useState } from "react";
 function App() {
